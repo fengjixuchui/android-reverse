@@ -134,6 +134,13 @@
   * Windows 平台下的 Unity il2cpp 逆向工具
   * 还原DLL文件（不包含代码），可用于提取`MonoBehaviour`和`MonoScript`
   * 生成IDA和Ghidra的脚本，帮助IDA和Ghidra更好的分析il2cpp文件
+* [GameGuardian](https://gameguardian.net/download)
+  * a game cheat / hack / alteration tool
+  * modify money, HP, SP, and much more
+  * **ROOT or VIRTUAL ENVIRONMENT ONLY**
+* [get_dll_from_bin.exe](https://gameguardian.net/forum/files/file/7-utility-for-extracting-dll-files-from-various-dumps/)
+  * extracts PE-files (.exe, .dll, etc.) from .bin files.
+  * [How to dump DLL and other files using GameGuardian (root only) (Android 2.3.3-8.0) - iAndroHacker.net](https://gameguardian.net/forum/topic/17965-how-to-dump-dll-and-other-files-using-gameguardian-root-only-android-233-80-iandrohackernet/)
 
 
 
